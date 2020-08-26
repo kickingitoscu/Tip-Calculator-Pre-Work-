@@ -28,8 +28,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <img src='http://g.recordit.co/z9vL0NAkSa.gif' title='Gif' width='250' /><br>
 
 
